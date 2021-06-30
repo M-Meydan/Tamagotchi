@@ -1,2 +1,2 @@
 # Tamagotchi
-Tamagotchi game implementation.
+Tamagotchi game implementation. - Updated
